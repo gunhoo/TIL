@@ -1,7 +1,7 @@
 # Today I Learned(TIL)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](./LICENSE)  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gunhoo&icon=github.svg)](https://github.com/gunhoo)
 [![Blog](https://img.shields.io/badge/Blog-gunhoo.github.io-green.svg)](https://gunhoo.github.io/)
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:gunhoo2016@gmail.com"/>
+<a href="mailto:gunhoo2016@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:gunhoo2016@gmail.com"/>
 
 ## Algorithm
 
