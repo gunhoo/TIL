@@ -1,5 +1,5 @@
 # Today I Learned(TIL)
-[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](./LICENSE)  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gunhoo&icon=github.svg)](https://github.com/gunhoo)
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](./LICENSE)  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gunhoo/TIL&icon=github.svg)](https://github.com/gunhoo/TIL)
 [![Blog](https://img.shields.io/badge/Blog-gunhoo.github.io-green.svg)](https://gunhoo.github.io/)
 <a href="mailto:gunhoo2016@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:gunhoo2016@gmail.com"/>
 
@@ -14,6 +14,7 @@
 <summary>Amazon</summary>
 <ul>
     <li> <a href="./LeetCode/[Array, DP] 0121-best-time-to-buy-and-sell-stock.md">121. Best Time to Buy and Sell Stock</a> </li>
+    <li> <a href="./LeetCode/[Array, Sorting] 1608-special-array-with-x-elements-greater-than-or-equal-x.md">1608. Special Array With X Elements Greater Than or Equal X
 </ul>
 </details>
 
