@@ -14,7 +14,7 @@
 <summary>Amazon</summary>
 <ul>
     <li> <a href="./LeetCode/[Array, DP] 0121-best-time-to-buy-and-sell-stock.md">121. Best Time to Buy and Sell Stock</a> </li>
-    <li> <a href="./LeetCode/[Array, Sorting] 1608-special-array-with-x-elements-greater-than-or-equal-x.md">1608. Special Array With X Elements Greater Than or Equal X
+    <li> <a href="./LeetCode/[Array, Sorting] 1608-special-array-with-x-elements-greater-than-or-equal-x.md">1608. Special Array With X Elements Greater Than or Equal X </a></li>
 </ul>
 </details>
 
@@ -23,5 +23,6 @@
 <ul>
     <li> <a href="./LeetCode/[Array, Sorting] 1464-maximum-product-of-two-elements-in-an-array.md">1464. Maximum Product of Two Elements in an Array
     </a></li>
+    <li> <a href="./LeetCode/[Array, Matrix] 2482-difference-between-ones-and-zeros-in-row-and-column.md">2482. Difference Between Ones and Zeros in Row and Column </a></li>
 </ul>
 </details>
