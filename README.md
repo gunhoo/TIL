@@ -11,7 +11,12 @@
 ## LeetCode
 <li> <a href="./LeetCode/[String] 0014-longest-common-prefix.md">0014. Longest Common Prefix</a> </li>
 
+<li> <a href="./LeetCode/[String, Stack] 0020-valid-parentheses.md">0020. Valid Parentheses</a> </li>
+
 <li> <a href="./LeetCode/[Array, DP] 0121-best-time-to-buy-and-sell-stock.md">0121. Best Time to Buy and Sell Stock</a> </li>
+
+<li> <a href="./LeetCode/[Tree, DFS] 0872-leaf-similar-trees.md">0872. Leaf-Similar Trees</a> </li>
+
 
 <li> <a href="./LeetCode/[Array, DP, DFS] 1066-campus-bikes-ii.md">1066. Compus Bikes II</a> </li>
 
